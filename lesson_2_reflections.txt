@@ -1,4 +1,5 @@
 What happens when you create a repository?  Why do you need to do it?
+Testing
 
     When I create a repository, Git creates a directory vhere it will keep track
     of all the versions that I save.  Creating the repository also lets Git know
